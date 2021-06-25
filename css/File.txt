@@ -1,0 +1,350 @@
+
+ <div class="team-tab">
+                        <nav class="o-common-nav-tab">
+                            <div class="nav nav-tabs" id="team-tab" role="tablist">
+                                <a class="nav-item nav-link active" data-toggle="tab" href="#team-tab-1" role="tab" aria-controls="team-tab-1" aria-selected="true">OPERATING TEAM</a>
+                                <a class="nav-item nav-link" data-toggle="tab" href="#team-tab-2" role="tab" aria-controls="team-tab-2" aria-selected="false">ADVISORY BOARD</a>
+                            </div>
+                            <!-- End of .nav-tabs -->
+                        </nav>
+                        <!-- End of .nav -->
+                        <div class="tab-content" id="team-tab-Content">
+                            <div class="tab-pane fade show active" id="team-tab-1" role="tabpanel" aria-labelledby="team-tab-1">
+                                <div class="row">
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/1.jpg" alt="team member">
+                                                <p>Suspendisse posuere vulputate tortor, eu suscipit nisi consectetur ut. Mauris
+                                                    bibendum cursus posuere. In non justo ligula. Ut a mauris velit. Donec
+                                                    vitae tortor quam. Ut aliquam tortor et erat pharetra gravida.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Randall Jenkins
+                                                <span>Founder &amp; CEO</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/2.jpg" alt="team member">
+                                                <p>Pellentesque pulvinar consequat sapien eu ultrices. Suspendisse vel congue
+                                                    lorem. Nulla posuere erat est, id finibus sapien malesuada at. Suspendisse
+                                                    iaculis ex ut faucibus dignissim. Sed tempor elit in massa pretium id.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Jim Poole
+                                                <span>Co-founder &amp; CTO</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/3.jpg" alt="team member">
+                                                <p>Maecenas pretium lacus id ligula faucibus, at faucibus lectus placerat. Curabitur
+                                                    vel est sem. Sed vehicula massa imperdiet, fermentum orci vitae, eleifend
+                                                    elit. Donec eu tempus orci. Ut interdum, ligula tincidunt porta.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Stanley Little
+                                                <span>Co-founder &amp; COO</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/4.jpg" alt="team member">
+                                                <p>Nunc gravida sagittis arcu, at placerat nisl hendrerit sit amet. Proin felis
+                                                    lacus, ornare at nisl ac, vulputate consectetur est. Donec mollis, erat
+                                                    id convallis mollis, diam erat ornare lorem, eu sagittis.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Verna Bryant
+                                                <span>Marketing Officer</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/5.jpg" alt="team member">
+                                                <p>Sed faucibus placerat semper. Ut pretium vitae velit rutrum lacinia. Aenean
+                                                    in sem eu velit dictum tempus et non nunc. Sed cursus pulvinar ligula
+                                                    fringilla ultricies. Suspendisse elementum purus vitae egestas venenatis.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Bradley Vargas
+                                                <span>ICO Specialist</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/6.jpg" alt="team member">
+                                                <p>Nam dolor tortor, tincidunt a urna non, laoreet blandit velit. Quisque eget
+                                                    lacus mauris. Integer luctus efficitur ligula. Vivamus venenatis congue
+                                                    nibh. Phasellus vel nibh a magna tempor vulputate sed in augue.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Myrtie Bush
+                                                <span>ICO Specialist</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/7.jpg" alt="team member">
+                                                <p>Integer eu maximus elit, id fringilla dui. Maecenas sit amet porta orci.
+                                                    Ut ut gravida elit. Praesent eget diam sapien. Aliquam consequat dolor
+                                                    ac felis viverra consequat. Mauris dictum, odio vitae rutrum.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Adele McKenzie
+                                                <span>Cryptocurrency Specialist</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/8.jpg" alt="team member">
+                                                <p>Cras arcu lectus, sollicitudin non ex ac, ultrices viverra neque. Nulla lobortis
+                                                    felis eu urna pulvinar, nec sodales sem egestas. In massa justo, mollis
+                                                    vitae lacus vitae, feugiat mollis risus. Mauris sit.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Warren Price
+                                                <span>Technology Officer</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+                                </div>
+                                <!-- End of .row -->
+                            </div>
+                            <!-- End of .tab-pane -->
+
+                            <div class="tab-pane fade" id="team-tab-2" role="tabpanel" aria-labelledby="team-tab-2">
+                                <div class="row">
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/9.jpg" alt="team member">
+                                                <p>Sed dignissim odio eu est molestie tempus ac a ante. Nam id lorem id erat
+                                                    tristique molestie. Sed sit amet lectus a enim posuere pulvinar rhoncus
+                                                    non elit. Pellentesque habitant morbi tristique.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Maxime Bourgeois
+                                                <span>Chief Advisor</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/10.jpg" alt="team member">
+                                                <p>Ut tempus ex ipsum, ac semper arcu vehicula quis. Nullam ac aliquam erat.
+                                                    Nullam nec molestie metus, vel feugiat lectus. Fusce porttitor maximus
+                                                    ultricies. Phasellus tincidunt, turpis a sollicitudin laoreet, ipsum
+                                                    diam.
+                                                </p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Joe Baker
+                                                <span>Advisor</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/11.jpg" alt="team member">
+                                                <p>Integer molestie tristique turpis quis euismod. Nullam euismod, nulla venenatis
+                                                    iaculis lacinia, tellus risus egestas urna, id sagittis felis metus non
+                                                    justo. Quisque dignissim nibh scelerisque nisl suscipit, id finibus est
+                                                    pharetra.
+                                                </p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Vivek Ravin
+                                                <span>Advisor</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/12.jpg" alt="team member">
+                                                <p>Etiam varius vestibulum leo, sit amet suscipit justo placerat at. Phasellus
+                                                    dui magna, ultricies ut auctor sit amet, ornare et libero. Proin maximus
+                                                    metus a mi iaculis vulputate. Suspendisse porttitor mauris vel.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Sona Psotova
+                                                <span>Advisor</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/13.jpg" alt="team member">
+                                                <p>Curabitur nec euismod risus. Quisque hendrerit at nibh sit amet facilisis.
+                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et lectus
+                                                    sollicitudin sem semper cursus. Etiam consectetur vel dolor eget imperdiet.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Pawel Waraksa
+                                                <span>Advisor</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/14.jpg" alt="team member">
+                                                <p>Mauris id semper ex. In euismod nibh vel augue blandit fermentum. Vivamus
+                                                    hendrerit efficitur lacus, a condimentum enim vestibulum mollis. Aliquam
+                                                    ultricies non dolor a aliquam. Vivamus at lorem sit amet mi.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Pola Leszczynska
+                                                <span>Advisor</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/15.jpg" alt="team member">
+                                                <p>Curabitur scelerisque luctus leo, quis vestibulum nibh iaculis et. Nulla
+                                                    massa metus, pulvinar id enim vehicula, fringilla pretium lorem. Proin
+                                                    ut vulputate elit, sed iaculis diam. Pellentesque velit massa, molestie
+                                                    eu mollis.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Maxime Bourgeois
+                                                <span>Advisor</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+
+                                    <div class="col-xl-3 col-lg-4 col-md-6">
+                                        <div class="o-common-card">
+                                            <div class="img-container">
+                                                <img src="images/team/members/16.jpg" alt="team member">
+                                                <p>Ut in dui luctus, sollicitudin nisi a, tristique odio. Nam lobortis molestie
+                                                    velit, at eleifend turpis sollicitudin et. Nullam ultricies orci sed
+                                                    sem auctor maximus. Vivamus in nisi ut nibh condimentum ultricies.</p>
+                                            </div>
+                                            <!-- End of .img-container -->
+                                            <h5>Pawel Kontek
+                                                <span>Advisor</span>
+                                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+                                                    <i class="icon-Linkedin"></i>
+                                                </a>
+                                            </h5>
+                                        </div>
+                                        <!-- End of .o-common-card -->
+                                    </div>
+                                    <!-- End of .col-md-3 -->
+                                </div>
+                                <!-- End of .row -->
+                            </div>
+                            <!-- End of .tab-pane -->
+                        </div>
+                        <!-- End of .tab-content -->
+                    </div>
