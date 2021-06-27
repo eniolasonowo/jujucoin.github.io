@@ -153,7 +153,7 @@ $(function () {
                 youtube: {
                     index: 'youtube.com/',
                     id: 'v=',
-                    src: '//www.youtube.com/embed/%id%?autoplay=1'
+                    src: '//www.youtube.com/embed/%id%?rel=0'
                 }
             },
             srcAction: 'iframe_src'
